@@ -1,1 +1,3 @@
-# retailpro-open-data
+# RetailPro Open Data
+
+This repository contains correlation analysis for retail KPIs.
